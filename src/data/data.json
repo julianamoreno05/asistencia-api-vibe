@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "id": "EST00001",
+      "name": "Juliana Moreno",
+      "email": "juliana.1701513897@ucaldas.edu.co",
+      "createdAt": "2026-04-20T14:53:21.244Z"
+    },
+    {
+      "id": "EST00002",
+      "name": "Nicolás Jiménez",
+      "email": "nicolas.1701812174@ucaldas.edu.co",
+      "createdAt": "2026-04-20T14:58:59.306Z"
+    },
+    {
+      "id": "EST00003",
+      "name": "Pepito Perez",
+      "email": "Pepito.0004@ucaldas.edu.co",
+      "createdAt": "2026-04-20T15:09:00.493Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "1776697017007",
+      "studentId": "EST00001",
+      "date": "2026-04-20",
+      "status": "presente",
+      "createdAt": "2026-04-20T14:56:57.007Z"
+    },
+    {
+      "id": "1776697940347",
+      "studentId": "EST00002",
+      "date": "2026-04-20",
+      "status": "presente",
+      "createdAt": "2026-04-20T15:12:20.347Z"
+    }
+  ]
+}
